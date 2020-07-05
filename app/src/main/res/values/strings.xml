@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">百川</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">welcome</string>
+    <string name="second_fragment_label">proxy running\.\.\.</string>
+    <string name="next">Proxy On</string>
+    <string name="previous">proxy off</string>
+
+    <string name="hello_first_fragment">welcome</string>
+    <string name="hello_second_fragment">proxy is running\.\.\.</string>
+</resources>
